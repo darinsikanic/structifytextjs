@@ -1,0 +1,16 @@
+{
+  "name": "structifytextjs",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Darin Sikanic",
+  "license": "Apache",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "lodash.isplainobject": "^4.0.6"
+  },
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
+}

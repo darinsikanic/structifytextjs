@@ -1,0 +1,17 @@
+{
+    "groups": [
+        {
+            "id": "Group id:\\s+(\\d+)",
+            "ref_count": "Reference count:\\s+(\\d+)",
+            "packet_count": "Packet count:\\s+(\\d+)",
+            "byte_count": "Byte count:\\s+(\\d+)",
+            "bucket": [
+                {
+                    "id": "Bucket\\s+(\\d+)",
+                    "packet_count": "Packet count:\\s+(\\d+)",
+                    "byte_count": "Byte count:\\s+(\\d+)"
+                }
+            ]
+        }
+    ]
+}
