@@ -60,7 +60,7 @@ modules `parse` method.
 
     const struct = {
             "interfaces": [{
-                "id": "(eth\d{1,2})",
+                "id": "(eth\\d{1,2})",
                 "ipv4_address": "inet addr:(\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3})",
                 "mac_address": "HWaddr\\s((?:[a-fA-F0-9]{2}[:|\\-]?){6})"
               }]
