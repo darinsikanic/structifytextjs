@@ -152,4 +152,6 @@ module.exports = {
     _indexOfMatches,
     _compileRegex,
     _findAll,
+    _regexGroups,
+    _inlineFlags
 }
