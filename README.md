@@ -34,7 +34,7 @@ From source :
 Usage
 -----
 
-Pass your text and a "structure" (python dictionary) to the `parser`
+Pass your text and a "structure" (Javascript object) to the `parser`
 modules `parse` method.
 
     const parser = require("structifytextjs")
